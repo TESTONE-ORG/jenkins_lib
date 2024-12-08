@@ -1,0 +1,9 @@
+prod:
+  apiUrl: "https://api.prod.example.com"
+  dbHost: "db.prod.example.com"
+  appVersion: "1.0.0"
+
+staging:
+  apiUrl: "https://api.staging.example.com"
+  dbHost: "db.staging.example.com"
+  appVersion: "1.0.1"
